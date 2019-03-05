@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121702456211",
+    "firebase_url": "https://pushtest-9d2e3.firebaseio.com",
+    "project_id": "pushtest-9d2e3",
+    "storage_bucket": "pushtest-9d2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121702456211:android:d8c7d89dc069d470",
+        "android_client_info": {
+          "package_name": "com.example.bader.registerwithapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121702456211-r5066ora3t4re4qok9vcl5acetdbc1a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bader.registerwithapi",
+            "certificate_hash": "965594af46c90422950fcabba9a12e970832e186"
+          }
+        },
+        {
+          "client_id": "121702456211-cjvo46552t2uq9ph3qf4eilvv7tlko69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwdyq5A4z7_HPHfrbUNvdlDKv8UXxzdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121702456211-cjvo46552t2uq9ph3qf4eilvv7tlko69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
